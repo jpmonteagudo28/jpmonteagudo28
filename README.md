@@ -1,4 +1,5 @@
 <div align="center" style="display: flex;">
+  <img width=180 height=180 alt="Website" src="https://github.com/jpmonteagudo28/jpmonteagudo28/blob/main/ImgCreator.ai%20%20GitHub%20cat%20wearing%20a%20space%20helmet%20in%20space%2C%20ultra%20detail%2C%20ultra%20sharp.png"/> 
   <h3> ¡Hola! :wave: <h3/>
   <h3>I'm Juan Pablo Monteagudo :nerd_face:</h3>
   An <b>aspiring data scientist</b> fascinated by <b><i>people, statistics, research, and its real-world impact</i></b>. <br/> Passionate about <b><i>driving humanity forward, </i></b>
