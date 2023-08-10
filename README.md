@@ -1,7 +1,7 @@
 <div align="center" style="display: flex;">
   <h3> ¡Hola! :wave: <h3/>
   <h3>I'm Juan Pablo Monteagudo :nerd_face:</h3>
-  An <b>aspiring data scientist</b> fascinated by <b><i>people, statistics, research, and its real-world impact</i></b>. <br/> Passionate about <b><i>driving humanity forward, </i></b>
+  A <b>problem solver and aspiring data scientist</b> fascinated by <b><i>people, statistics, research, and its real-world impact</i></b>. <br/> Passionate about <b><i>driving humanity forward, </i></b>
   with a desire to unveil the hidden potential within all data, <br /> I'm always <b>working to unlock valuable insights and tackle complex data challenges head-on. :exploding_head: </b> <br/>
   
 </div>
