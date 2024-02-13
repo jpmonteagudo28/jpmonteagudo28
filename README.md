@@ -24,8 +24,3 @@
 </div>
 
 <br />
-
-<div align="center">
-  <b>"Success Is 1% Inspiration, 98% Perspiration, And 2% Attention To Detail."</b> <br /> <br />
-  <b>- Phil Dunphy -</b>
-</div>
