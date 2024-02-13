@@ -2,7 +2,7 @@
   <h3> ¡Hola! :wave: <h3/>
   <h3>I'm Juan Pablo Monteagudo :nerd_face:</h3>
   A <b>problem solver and aspiring biostatistician</b> fascinated by <b><i> research, and its real-world impact</i></b>. <br/> Passionate about <b><i>driving humanity forward, </i></b>
-  with a desire to unveil hidden truth and find hope in data, <br /> Always <b>working to make life a tiny bit better and tackle complex data challenges head-on. :exploding_head: </b> <br/>
+  with a desire to unveil hidden truth and find hope in data. <br /> Always <b>working to make life a tiny bit better and tackle complex data challenges head-on. :exploding_head: </b> <br/>
   
 </div>
 
