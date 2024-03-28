@@ -1,14 +1,14 @@
-<div align="center" style="display: flex;">
+<div align="justified" style="display: flex;">
   <h3> ¡Hola! :wave: <h3/>
-  <h3>I'm Juan Pablo Monteagudo :nerd_face:</h3>
-  A <b>problem solver and aspiring biostatistician</b> fascinated by <b><i> research, and its real-world impact</i></b>. <br/> Passionate about <b><i>driving humanity forward, </i></b>
-  with a desire to unveil hidden truth and find hope in data. <br /> Always <b>working to make life a tiny bit better and tackle complex data challenges head-on. :exploding_head: </b> <br/>
-  
+  <h3>I'm Juan Pablo Monteagudo</h3>
+  I’m an <b> aspiring epidemiologist </b> currently pursuing post-graduate studies in Epidemiology. <br/>  I’m interested in <b>clinical epidemiology, epidemiological research methods, infectious diseases, </br>
+    pharmaco-epidemiology and nutritional epidemiology. I love mathematical applied statistics and the R programming language, </br>
+    one of the best tools for clinical statistics and epidemiological research. I’m currently taking a deep dive into generalized linear models,</br> causal inference and data visualization, and  conducting a pilot study to analyze the impact of new hire training on performance in a fast-paced contact center environment for the financial services division of a large university. <br /> 
 </div>
 
 <br />
 
-<div align="center" style="display: flex;">
+<div align="justified" style="display: flex;">
   <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/JuanPab13191152">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
