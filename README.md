@@ -2,8 +2,9 @@
   <h3> ¡Hola! :wave: <h3/>
   <h3>I'm Juan Pablo Monteagudo</h3>
   I’m an <b> aspiring epidemiologist </b> currently pursuing post-graduate studies in Epidemiology. <br/>  I’m interested in <b>clinical epidemiology, epidemiological research methods, infectious diseases, </br>
-    pharmaco-epidemiology and nutritional epidemiology</b>. I love mathematical applied statistics and the R programming language, </br>
-    one of the best tools for clinical statistics and epidemiological research. I’m currently taking a deep dive into generalized linear models,</br> causal inference and data visualization, and  conducting a pilot study to analyze the impact of new hire training on performance in a fast-paced contact center environment for the financial services division of a large university. <br /> 
+    pharmaco-epidemiology and nutritional epidemiology</b>. 
+    <p> I love mathematical applied statistics and the R programming language, </br>
+    one of the best tools for clinical statistics and epidemiological research. I’m currently taking a deep dive into generalized linear models,</br> causal inference and data visualization, and  conducting a pilot study to analyze the impact of new hire training on performance in a fast-paced contact center environment for the financial services division of a large university. <br /> </p>
 </div>
 
 <br />
