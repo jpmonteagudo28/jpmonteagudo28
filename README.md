@@ -5,7 +5,8 @@
     demography and population change. 
     </br> 
     </br>
-    I love mathematical applied <b>statistics</b> and the R programming language. I've developed one package `despair` and am currently working on a few more. You can check them out if you'd like. </br>
+    I love mathematical applied <b>statistics</b> and the R programming language. </br>
+    I've developed one package `despair` and am currently working on a few more. You can check them out if you'd like. </br>
     Currently taking a deep dive into generalized linear models, causal inference and data visualization. <br />
 </div>
 
