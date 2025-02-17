@@ -1,24 +1,25 @@
 <div align="justified" style="display: flex;">
   <h3> ¡Hola! :wave: <h3/>
-  <h3>I'm Juan Pablo Monteagudo</h3>
-  I’m an <b> aspiring epidemiologist </b>  <br>  Interested in clinical epidemiology, epidemiological <b>research methods</b>, infectious diseases, </br>
-    demography and population change. 
-    </br> 
-    </br>
-    I love <b>statistics</b> and the R programming language. </br>
-    I've developed one package `despair` and am currently working on a few more. You can check them out if you'd like. </br>
-    Currently taking a deep dive into generalized linear models, causal inference and data visualization. <br />
+  <h3>I'm Juan Pablo (JP) Monteagudo</h3>
+  <p>I'm an aspiring epidemiologist. In my spare time, I enjoy a few things:</p>
+  <ul>
+    <li>Math</li>
+    <li>Biology</li>
+    <li>Good books</li>
+    <li> Great jokes</li>
+    <li>Axes</li>
+    <li>Kettlebells (trying to be a well-rounded nerd)</li>
+  </ul>
+  <h3>One maxim I live by:</h3>
+  <blockquote>
+    "Before I do anything I ask myself, 'Would an idiot do that?' And if the answer is yes, I do not do that thing."
+    <br>— Dwight Schrute
+  </blockquote>
+  <p>I've put together <a target="_blank" rel="noopener noreferrer" href="https://www.jpmonteagudo.com">a website</a> and a few packages that you can check out, use, or just look at. Do what you feel like doing, I guess :D.</p>
+</div>
 </div>
 
-<br />
-
 <div align="justified" style="display: flex;">
-  <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/JuanPab13191152">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://medium.com/@jpmonteagudo2014">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
   <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/juan-pablo-jp-monteagudo-71127bab">
     <img alt ="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
