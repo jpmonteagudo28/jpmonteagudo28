@@ -15,7 +15,7 @@
     "Before I do anything I ask myself, 'Would an idiot do that?' And if the answer is yes, I do not do that thing."
     <br>— Dwight Schrute
   </blockquote>
-  <p>I've put together <a target="_blank" rel="noopener noreferrer" href="https://www.jpmonteagudo.com">a website</a> and a few packages that you can check out, use, or just look at. Do what you feel like doing, I guess :D.</p>
+  <p>I've put together <a target="_blank" rel="noopener noreferrer" href="https://www.jpmonteagudo.com">a website</a> and a few packages that you can check out, use, or just look at. Do what you feel like doing :D.</p>
 </div>
 </div>
 
